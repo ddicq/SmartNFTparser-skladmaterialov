@@ -1,0 +1,1 @@
+# SmartNFTparser-skladmaterialov
